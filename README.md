@@ -19,6 +19,7 @@ Features:
 - Added particles to the paddle everytime it gets hit
 - Created my own background for the game
 - Added shaders to the Main Menu, Pause Menu, and End Game Menu
+- Added two balls to the Main Menu
 - Created a new theme for the buttons in the Main Menu and Pause Menu
 - Used a dynamic font for labels
 - Created my own sprite for the ball
