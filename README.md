@@ -16,6 +16,7 @@ Features:
 - Created my own sprite for the paddle
 - Gave the paddle a face
 - Animimated the paddle's mouth and pupils so that the mouth would frown the further away the ball would go, and the pupils would follow the ball
+- Animated the indicator using tweening, ease in and out
 - Added particles to the paddle everytime it gets hit
 - Created my own background for the game
 - Added shaders to the Main Menu, Pause Menu, and End Game Menu
