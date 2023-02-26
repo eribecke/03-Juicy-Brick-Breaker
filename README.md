@@ -16,6 +16,7 @@ Features:
 - Created my own sprite for the paddle
 - Gave the paddle a face
 - Animimated the paddle's mouth and pupils so that the mouth would frown the further away the ball would go, and the pupils would follow the ball
+- Added particles to the paddle everytime it gets hit
 - Created my own background for the game
 - Added shaders to the Main Menu, Pause Menu, and End Game Menu
 - Created a new theme for the buttons in the Main Menu and Pause Menu
@@ -25,8 +26,6 @@ Features:
 - Created my own sprites for the bricks
 - Created my own music for the game
 - Added sound effects for the paddle and ball
-
-
 
 ## References
 I created my own art for my sprites using Pixilart.com. I drew the game background using Procreate on my IPad. 
