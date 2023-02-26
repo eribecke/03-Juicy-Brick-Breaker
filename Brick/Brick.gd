@@ -15,12 +15,16 @@ func _physics_process(_delta):
 		queue_free()
 
 func hit(_ball):
+	var brick_audio = get_node_or_null("/root/Game/Ball_Sound")
+	if brick_audio != null:
+		brick_audio.play()
+
 	die()
 
 func die():
 	dying = true
 	collision_layer = 0
-	$ColorRect.hide()
+	$Brick.hide()
 	Global.update_score(score)
 	if not Global.feverish:
 		Global.update_fever(score)
